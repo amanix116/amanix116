@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm **Amani Venuste**
 
-<!--
-**amanix116/amanix116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | 🇷🇼 Rwanda
+💡 Building scalable web applications and empowering developers
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🎓 SkillBuilder Training Center
+
+📌 A web platform that helps learners gain skills, trainers apply for jobs, and companies connect with developers.
+
+---
+
+## 🚀 Features
+
+* 👥 **Member Management**
+* 💼 **Trainer Job Applications**
+* 📁 **Project Management**
+* 📢 **Announcements System**
+* 💬 **Messaging System (Admin ↔ Users)**
+
+---
+
+## 🧠 Technologies Used
+
+| 💻 Category  | 🚀 Technologies              |
+| ------------ | ---------------------------- |
+| 🎨 Frontend  | HTML, CSS, JavaScript, React |
+| ⚙️ Backend   | Node.js, Express             |
+| 🗄️ Database | MySQL                        |
+| 🛠️ Tools    | Git, GitHub, VS Code         |
+
+---
+
+## ⚙️ System Structure
+
+| 🧩 Part      | 📌 Description |
+| ------------ | -------------- |
+| 🎨 Frontend  | User interface |
+| ⚙️ Backend   | Server logic   |
+| 🗄️ Database | Stores data    |
+
+---
+
+## 👨‍💻 Developer
+
+* 👤 **Amani Venuste**
+
+---
+
+## ⚡ Note
+
+💡 This project is built for learning and real-world practice.
