@@ -21,7 +21,7 @@ I enjoy working on real projects that help people and improve my skills in both 
 | 🗄️ Database | MySQL                        |
 | 🔗 API       | RESTful APIs                 |
 | 🛠️ Tools    | Git, GitHub, VS Code         |
-| 📱 Design    | Responsive Design            |
+
 
 ---
 
