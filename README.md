@@ -27,10 +27,10 @@ I enjoy working on real projects that help people and improve my skills in both 
 
 ## 📁 Projects
 
-* 🎓 SkillBuilder Training Center
+* 🎓 SkillBuilder Training Center: 
   A platform for managing students, courses, and training activities
 
-* 💼 Admin Dashboard System
+* 💼 Admin Dashboard System,
   Manage users, projects, and job opportunities
 
 ---
@@ -46,7 +46,7 @@ I enjoy working on real projects that help people and improve my skills in both 
 
 ## 📬 Contact
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📧 Email: [amanivenuste116@gmail.com](mailto:amanivenuste116@gmail.com)
 * 🌐 GitHub: https://github.com/amanix116
 
 ---
