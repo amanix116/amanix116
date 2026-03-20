@@ -1,53 +1,57 @@
-# 👋 Hi, I'm **Amani Venuste**
+# 👋 Hi, I'm Amani Venuste
 
 🚀 Full-Stack Developer | 🇷🇼 Rwanda
-💡 Building scalable web applications and empowering developers
+💡 Passionate about building web applications and solving real-world problems
 
 ---
 
-# 🎓 SkillBuilder Training Center
+## 👨‍💻 About Me
 
-📌 A web platform that helps learners gain skills, trainers apply for jobs, and companies connect with developers.
-
----
-
-## 🚀 Features
-
-* 👥 **Member Management**
-* 💼 **Trainer Job Applications**
-* 📁 **Project Management**
-* 📢 **Announcements System**
-* 💬 **Messaging System (Admin ↔ Users)**
+I am a motivated developer focused on learning and building modern web applications.
+I enjoy working on real projects that help people and improve my skills in both frontend and backend development.
 
 ---
 
-## 🧠 Technologies Used
+## 🧠 Knowledge & Skills
 
-| 💻 Category  | 🚀 Technologies              |
+| 💻 Category  | 🚀 Skills                    |
 | ------------ | ---------------------------- |
 | 🎨 Frontend  | HTML, CSS, JavaScript, React |
 | ⚙️ Backend   | Node.js, Express             |
 | 🗄️ Database | MySQL                        |
+| 🔗 API       | RESTful APIs                 |
 | 🛠️ Tools    | Git, GitHub, VS Code         |
+| 📱 Design    | Responsive Design            |
 
 ---
 
-## ⚙️ System Structure
+## 📁 Projects
 
-| 🧩 Part      | 📌 Description |
-| ------------ | -------------- |
-| 🎨 Frontend  | User interface |
-| ⚙️ Backend   | Server logic   |
-| 🗄️ Database | Stores data    |
+* 🎓 SkillBuilder Training Center
+  A platform for managing students, courses, and training activities
 
----
-
-## 👨‍💻 Developer
-
-* 👤 **Amani Venuste**
+* 💼 Admin Dashboard System
+  Manage users, projects, and job opportunities
 
 ---
 
-## ⚡ Note
+## 🎯 Goals
 
-💡 This project is built for learning and real-world practice.
+* Improve my full-stack development skills
+* Build real-world impactful projects
+* Work with professional teams
+* Get internship opportunities
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 🌐 GitHub: https://github.com/amanix116
+
+---
+
+## ⚡ Motto
+
+> "Learning by building, growing by doing."
+
